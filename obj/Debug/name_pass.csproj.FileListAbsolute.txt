@@ -1,0 +1,20 @@
+D:\Класове\10 клас\А\16\name_pass\bin\Debug\name_pass.exe.config
+D:\Класове\10 клас\А\16\name_pass\bin\Debug\name_pass.exe
+D:\Класове\10 клас\А\16\name_pass\bin\Debug\name_pass.pdb
+D:\Класове\10 клас\А\16\name_pass\obj\Debug\name_pass.csprojAssemblyReference.cache
+D:\Класове\10 клас\А\16\name_pass\obj\Debug\name_pass.Form1.resources
+D:\Класове\10 клас\А\16\name_pass\obj\Debug\name_pass.Properties.Resources.resources
+D:\Класове\10 клас\А\16\name_pass\obj\Debug\name_pass.csproj.GenerateResource.cache
+D:\Класове\10 клас\А\16\name_pass\obj\Debug\name_pass.exe
+D:\Класове\10 клас\А\16\name_pass\obj\Debug\name_pass.pdb
+D:\Programming\name_pass\bin\Debug\name_pass.exe.config
+D:\Programming\name_pass\bin\Debug\name_pass.exe
+D:\Programming\name_pass\bin\Debug\name_pass.pdb
+D:\Programming\name_pass\obj\Debug\name_pass.csproj.AssemblyReference.cache
+D:\Programming\name_pass\obj\Debug\name_pass.csproj.SuggestedBindingRedirects.cache
+D:\Programming\name_pass\obj\Debug\name_pass.Form1.resources
+D:\Programming\name_pass\obj\Debug\name_pass.Properties.Resources.resources
+D:\Programming\name_pass\obj\Debug\name_pass.csproj.GenerateResource.cache
+D:\Programming\name_pass\obj\Debug\name_pass.csproj.CoreCompileInputs.cache
+D:\Programming\name_pass\obj\Debug\name_pass.exe
+D:\Programming\name_pass\obj\Debug\name_pass.pdb
